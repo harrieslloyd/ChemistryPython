@@ -1,12 +1,12 @@
 from chemFunctions import *
 
 print("\n\n\n")
-r = str(input("r: "))
-rc = int(input("rc: "))
-rg = float(input("rg: "))
-p = str(input("p: "))
-pc = int(input("pc: "))
+r = str(input("reactant: "))
+rc = int(input("reactant count: "))
+rg = float(input("reactant grams: "))
+p = str(input("product: "))
+pc = int(input("product count: "))
 print("\n")
 
 result = solve(r, rc, rg, p, pc)
-print("Result: " + str(result))
+print("Product Grams: " + str(result))

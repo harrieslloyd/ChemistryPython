@@ -1,0 +1,5 @@
+# CHEMISTRY PYTHON PROGRAMS
+
+This repo has a bunch of python programs that can do basic-level chemistry. Those are all found in the `chem` folder. In the root, you'll see 3 other files: `newton.py` will do newton's method (calc), `ram.py` will do rectangular integral estimations, and `taylor.py` will find Taylor series. 
+
+In the chem folder, you'll find all of the python files labeled with what they do. These files are the unoptimized, simple versions that work best on a computer. In the `newTI` folder, there are optimized python files for a TI-84 Plus CE Python Edition calculator. In order to use these, also upload the `MASS.8xl` file in the `ti` folder to your calculator. The rest of the stuff in the `ti` folder is old, except for `POLYATOM.8xp`, which is a TI-BASIC program that lists common polyatomic ions. Very useful. 
